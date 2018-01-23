@@ -1,0 +1,10 @@
+/home/kaban/dotnetapp/bin/Debug/netcoreapp2.0/dotnetapp.deps.json
+/home/kaban/dotnetapp/bin/Debug/netcoreapp2.0/dotnetapp.runtimeconfig.json
+/home/kaban/dotnetapp/bin/Debug/netcoreapp2.0/dotnetapp.runtimeconfig.dev.json
+/home/kaban/dotnetapp/bin/Debug/netcoreapp2.0/dotnetapp.dll
+/home/kaban/dotnetapp/bin/Debug/netcoreapp2.0/dotnetapp.pdb
+/home/kaban/dotnetapp/obj/Debug/netcoreapp2.0/dotnetapp.csproj.CoreCompileInputs.cache
+/home/kaban/dotnetapp/obj/Debug/netcoreapp2.0/dotnetapp.AssemblyInfoInputs.cache
+/home/kaban/dotnetapp/obj/Debug/netcoreapp2.0/dotnetapp.AssemblyInfo.cs
+/home/kaban/dotnetapp/obj/Debug/netcoreapp2.0/dotnetapp.dll
+/home/kaban/dotnetapp/obj/Debug/netcoreapp2.0/dotnetapp.pdb

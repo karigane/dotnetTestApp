@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/kaban/.dotnet/store/|arch|/|tfm|",
+      "/home/kaban/.nuget/packages",
+      "/home/kaban/dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}
